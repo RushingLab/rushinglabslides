@@ -1,2 +1,4 @@
 name: RushingLab
+description: >
+ Augment Xaringan slides package with custom options
 create_dir: false

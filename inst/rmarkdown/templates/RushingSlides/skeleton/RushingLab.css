@@ -39,7 +39,7 @@ h1, h2, h3 {
 
 /* Add image and change bg color */
 .title-slide {
-  background-image: url(https://raw.githubusercontent.com/RushingLab/RushingLab-css/master/img/logo/usu-logo.png);
+  background-image: url(https://raw.githubusercontent.com/RushingLab/rushinglabslides/master/img/logo/usu-logo.png);
   background-position: 15% 15%;
   background-size: 200px;
   background-color: #fdf7ef;
@@ -62,7 +62,7 @@ h1, h2, h3 {
 
 /* H2 fonts */
 .title-slide h2 {
-  color: #4C4B4C; /* Middlebury grey accent 1 */ 
+  color: #4C4B4C; /* Middlebury grey accent 1 */
   font-size: 35px;
   text-align: left;
   text-shadow: none;

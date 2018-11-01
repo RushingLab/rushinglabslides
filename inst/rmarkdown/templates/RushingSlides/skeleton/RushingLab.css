@@ -50,10 +50,10 @@ h1, h2, h3 {
 /* H1 fonts */
 .title-slide h1 {
   color: #0D395F; /* Middlebury blue */
-  padding-top: 150px;
+  padding-top: 250px;
   font-weight: normal;
   font-size: 45px;
-  line-height: 0.05;
+/*  line-height: 0.05;*/
   text-align: left;
   text-shadow: none;
   padding-bottom: 18px;

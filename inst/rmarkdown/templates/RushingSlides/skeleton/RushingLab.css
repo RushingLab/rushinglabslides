@@ -37,6 +37,11 @@ h1, h2, h3 {
   color: #AAA59F;
 }
 
+.right-column {
+  width: 75%;
+  float: right;
+}
+
 /* Add image and change bg color */
 .title-slide {
   background-image: url(https://raw.githubusercontent.com/RushingLab/rushinglabslides/master/img/logo/usu-logo.png);
@@ -50,7 +55,7 @@ h1, h2, h3 {
 /* H1 fonts */
 .title-slide h1 {
   color: #0D395F; /* Middlebury blue */
-  padding-top: 250px;
+  padding-top: 200px;
   font-weight: normal;
   font-size: 45px;
 /*  line-height: 0.05;*/
